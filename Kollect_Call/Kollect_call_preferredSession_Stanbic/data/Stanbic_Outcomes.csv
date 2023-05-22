@@ -1,0 +1,28 @@
+OUTCOME,CALL
+Unreachable: Out of Service,NOT PICKED
+Disputing Balance,PICKED
+PTP,PICKED
+Unreachable: Ringing no answer,NOT PICKED
+RESTRUCTURE,PICKED
+Unreachable: Engaged,NOT PICKED
+Setoff,PICKED
+Negotiation in Progress,PICKED
+Written Off-Outsource,PICKED
+MOVE TO REPOSSESSION,PICKED
+Full settlement,PICKED
+SKIP TRACE,NOT PICKED
+Unreachable: Out of reach,NOT PICKED
+Others,NOT PICKED
+Skip Trace in Progress,NOT PICKED
+Invalid Contact: Wrong Number,NOT PICKED
+PTP Reminder,PICKED
+Unwilling To Pay,NOT PICKED
+DECEASED,NOT PICKED
+Lien,PICKED
+Unreachable: Voice mail,NOT PICKED
+Written Off But Paid Off-Please Close,PICKED
+Language Barrier,PICKED
+Invalid Contact: Incorrect Number,NOT PICKED
+STATUTORY NOTICE,NOT PICKED
+Not Written Off,NOT PICKED
+Written Off-Retain,NOT PICKED

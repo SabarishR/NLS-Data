@@ -1,0 +1,379 @@
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-29 17:24:41,404 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:2011
+ * Running on http://192.168.172.156:2011 (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-29 17:27:18,925 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [29/Mar/2022 17:27:18] "POST /get_loan_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-29 18:28:21,729 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:2011
+ * Running on http://192.168.172.156:2011 (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-29 18:28:28,275 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [29/Mar/2022 18:28:28] "POST /get_loan_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 11:44:56,584 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:2011
+ * Running on http://192.168.172.156:2011 (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 11:45:47,386 & Filename - Revenue_Analytics_NCBA & Type - ERROR 
+-------------------------------------------------------------------------
+ 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+Traceback (most recent call last):
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\dateutil\parser\_parser.py", line 649, in parse
+    ret = self._build_naive(res, default)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\dateutil\parser\_parser.py", line 1235, in _build_naive
+    naive = default.replace(**repl)
+ValueError: day is out of range for month
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "pandas\_libs\tslibs\conversion.pyx", line 649, in pandas._libs.tslibs.conversion._convert_str_to_tsobject
+  File "pandas\_libs\tslibs\parsing.pyx", line 281, in pandas._libs.tslibs.parsing.parse_datetime_string
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\dateutil\parser\_parser.py", line 1368, in parse
+    return DEFAULTPARSER.parse(timestr, **kwargs)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\dateutil\parser\_parser.py", line 651, in parse
+    six.raise_from(ParserError(str(e) + ": %s", timestr), e)
+  File "<string>", line 3, in raise_from
+dateutil.parser._parser.ParserError: day is out of range for month: 2022-04-31
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\arrays\datetimelike.py", line 528, in _validate_comparison_value
+    other = self._scalar_from_string(other)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\arrays\datetimes.py", line 503, in _scalar_from_string
+    return Timestamp(value, tz=self.tz)
+  File "pandas\_libs\tslibs\timestamps.pyx", line 1399, in pandas._libs.tslibs.timestamps.Timestamp.__new__
+  File "pandas\_libs\tslibs\conversion.pyx", line 408, in pandas._libs.tslibs.conversion.convert_to_tsobject
+  File "pandas\_libs\tslibs\conversion.pyx", line 652, in pandas._libs.tslibs.conversion._convert_str_to_tsobject
+ValueError: could not convert string to Timestamp
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\arrays\datetimelike.py", line 1008, in _cmp_method
+    other = self._validate_comparison_value(other)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\arrays\datetimelike.py", line 531, in _validate_comparison_value
+    raise InvalidComparison(other)
+pandas.core.arrays.datetimelike.InvalidComparison: 2022-04-31
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics_NCBA.py", line 50, in get_loan_analysis
+    result = AY.to_get_loan_analysis(data)
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics\pyfiles\analytics.py", line 30, in to_get_loan_analysis
+    df = df.loc[(df[app.config['VAR_CONTRACT_DATE']] >= data['START_DATE']) & (df[app.config['VAR_CONTRACT_DATE']] <= data['END_DATE'])]
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\ops\common.py", line 70, in new_method
+    return method(self, other)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\arraylike.py", line 52, in __le__
+    return self._cmp_method(other, operator.le)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\series.py", line 5623, in _cmp_method
+    res_values = ops.comparison_op(lvalues, rvalues, op)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\ops\array_ops.py", line 269, in comparison_op
+    res_values = op(lvalues, rvalues)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\ops\common.py", line 70, in new_method
+    return method(self, other)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\arraylike.py", line 52, in __le__
+    return self._cmp_method(other, operator.le)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\arrays\datetimelike.py", line 1010, in _cmp_method
+    return invalid_comparison(self, other, op)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\pandas\core\ops\invalid.py", line 34, in invalid_comparison
+    raise TypeError(f"Invalid comparison between dtype={left.dtype} and {typ}")
+TypeError: Invalid comparison between dtype=datetime64[ns] and str
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics_NCBA.py", line 53, in get_loan_analysis
+    abort(400)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\werkzeug\exceptions.py", line 878, in abort
+    _aborter(status, *args, **kwargs)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\werkzeug\exceptions.py", line 861, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 11:45:47,604 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [30/Mar/2022 11:45:47] "POST /get_loan_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 11:46:31,393 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [30/Mar/2022 11:46:31] "POST /get_loan_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 11:46:41,667 & Filename - Revenue_Analytics_NCBA & Type - ERROR 
+-------------------------------------------------------------------------
+ 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+Traceback (most recent call last):
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics_NCBA.py", line 50, in get_loan_analysis
+    result = AY.to_get_loan_analysis(data)
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics\pyfiles\analytics.py", line 46, in to_get_loan_analysis
+    CF.fn_insert_loan_arrangementid_details(data,total_loan_arr_id,charged_loan_arr_id,not_charged_loan_arr_id,staff_loan_arr_id)
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics\pyfiles\functions.py", line 30, in fn_insert_loan_arrangementid_details
+    DBC.oracle_insertData(app.config['ORACLE_INSERT_LOAN_ARRANGEMENTID_DETAILS'],param)
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics\pyfiles\DB_connection.py", line 42, in oracle_insertData
+    cursor.execute(query, data)
+cx_Oracle.IntegrityError: ORA-01400: cannot insert NULL into ("SABARISH"."LOAN$ARRANGEMENT_ID$DETAILS"."TOTAL_LOAN")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics_NCBA.py", line 53, in get_loan_analysis
+    abort(400)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\werkzeug\exceptions.py", line 878, in abort
+    _aborter(status, *args, **kwargs)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\werkzeug\exceptions.py", line 861, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 11:46:41,671 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [30/Mar/2022 11:46:41] "POST /get_loan_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 11:47:55,834 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:2011
+ * Running on http://192.168.172.156:2011 (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 11:48:01,317 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [30/Mar/2022 11:48:01] "POST /get_loan_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 11:48:26,970 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [30/Mar/2022 11:48:26] "POST /get_loan_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 13:13:16,108 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:2013
+ * Running on http://192.168.172.156:2013 (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 13:14:29,014 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [30/Mar/2022 13:14:29] "POST /get_fd_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 13:53:12,181 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:2013
+ * Running on http://192.168.172.156:2013 (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 13:53:17,789 & Filename - Revenue_Analytics_NCBA & Type - ERROR 
+-------------------------------------------------------------------------
+ 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+Traceback (most recent call last):
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics_NCBA.py", line 64, in get_fd_analysis
+    result = AY.to_get_fd_analysis(data)
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics\pyfiles\analytics.py", line 86, in to_get_fd_analysis
+    fd_normal = len(df.loc[(df[app.config['VAR_INTEREST_RATE']] >= data['BAND_LIMIT'][0]) & (df[app.confif['VAR_INTEREST_RATE']] <= data['BAND_LIMIT'][1])])
+AttributeError: 'Flask' object has no attribute 'confif'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\flask\app.py", line 1523, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\flask\app.py", line 1509, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics\Revenue_Analytics_NCBA.py", line 67, in get_fd_analysis
+    abort(400)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\werkzeug\exceptions.py", line 878, in abort
+    _aborter(status, *args, **kwargs)
+  File "E:\anaconda3\envs\jupytor\lib\site-packages\werkzeug\exceptions.py", line 861, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 13:53:17,794 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [30/Mar/2022 13:53:17] "POST /get_fd_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 13:54:01,298 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:2013
+ * Running on http://192.168.172.156:2013 (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 13:54:04,851 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [30/Mar/2022 13:54:04] "POST /get_fd_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 16:47:38,622 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:2013
+ * Running on http://192.168.172.156:2013 (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 16:52:58,268 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [30/Mar/2022 16:52:58] "POST /get_fd_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 16:53:24,326 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [30/Mar/2022 16:53:24] "POST /get_loan_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 17:33:37,288 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:2013
+ * Running on http://192.168.172.156:2013 (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-03-30 17:33:47,054 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [30/Mar/2022 17:33:47] "POST /get_fd_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 15:10:33,671 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 15:10:33,673 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.0.133:2013/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 15:11:21,320 & Filename - Revenue_Analytics_NCBA & Type - ERROR 
+-------------------------------------------------------------------------
+ 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+Traceback (most recent call last):
+  File "Revenue_Analytics_NCBA.py", line 50, in get_loan_analysis
+    result = AY.to_get_loan_analysis(data)
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\pyfiles\analytics.py", line 23, in to_get_loan_analysis
+    df = DBC.oracle_readTable(app.config['ORACLE_SELECT_LOAN_DETAILS'])
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\pyfiles\DB_connection.py", line 31, in oracle_readTable
+    connection = oracle_connection()
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\pyfiles\DB_connection.py", line 21, in oracle_connection
+    oracle_connection = cx_Oracle.connect(
+cx_Oracle.DatabaseError: ORA-12545: Connect failed because target host or object does not exist
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\SabarishR\Python_Environments\python3.8.1o_revenue_analytics_ncba\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\SabarishR\Python_Environments\python3.8.1o_revenue_analytics_ncba\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "Revenue_Analytics_NCBA.py", line 53, in get_loan_analysis
+    abort(400)
+  File "E:\SabarishR\Python_Environments\python3.8.1o_revenue_analytics_ncba\lib\site-packages\werkzeug\exceptions.py", line 940, in abort
+    _aborter(status, *args, **kwargs)
+  File "E:\SabarishR\Python_Environments\python3.8.1o_revenue_analytics_ncba\lib\site-packages\werkzeug\exceptions.py", line 923, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 15:11:21,327 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [16/May/2022 15:11:21] "POST /get_loan_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 15:19:15,911 & Filename - Revenue_Analytics_NCBA & Type - ERROR 
+-------------------------------------------------------------------------
+ 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+Traceback (most recent call last):
+  File "Revenue_Analytics_NCBA.py", line 64, in get_fd_analysis
+    result = AY.to_get_fd_analysis(data)
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\pyfiles\analytics.py", line 77, in to_get_fd_analysis
+    df = DBC.oracle_readTable(app.config['ORACLE_SELECT_FD_REPORT_UG'],[data['CURRENCY']])
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\pyfiles\DB_connection.py", line 31, in oracle_readTable
+    connection = oracle_connection()
+  File "E:\SabarishR\Revenue_Analytics\Revenue_Analytics\pyfiles\DB_connection.py", line 21, in oracle_connection
+    oracle_connection = cx_Oracle.connect(
+cx_Oracle.DatabaseError: ORA-12545: Connect failed because target host or object does not exist
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\SabarishR\Python_Environments\python3.8.1o_revenue_analytics_ncba\lib\site-packages\flask\app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "E:\SabarishR\Python_Environments\python3.8.1o_revenue_analytics_ncba\lib\site-packages\flask\app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "Revenue_Analytics_NCBA.py", line 67, in get_fd_analysis
+    abort(400)
+  File "E:\SabarishR\Python_Environments\python3.8.1o_revenue_analytics_ncba\lib\site-packages\werkzeug\exceptions.py", line 940, in abort
+    _aborter(status, *args, **kwargs)
+  File "E:\SabarishR\Python_Environments\python3.8.1o_revenue_analytics_ncba\lib\site-packages\werkzeug\exceptions.py", line 923, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 15:19:15,913 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [16/May/2022 15:19:15] "POST /get_fd_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 15:23:28,260 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 15:23:28,261 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.0.133:2013/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 15:23:35,507 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [16/May/2022 15:23:35] "POST /get_loan_analysis HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 15:23:52,997 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [16/May/2022 15:23:52] "POST /get_fd_analysis HTTP/1.1" 200 -

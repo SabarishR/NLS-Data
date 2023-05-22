@@ -1,0 +1,57 @@
+) ACCOUNT TURNOVER -  
+BAND     MIN        MAX	WEIGHT
+1	  5000        10000    3
+2	  10001       15000	3.5
+3	  15001       25000	5
+4	  25001       50000	7
+5	  50001       100000	10
+6	  100001	 >      12      (Binning)
+			
+2) CRB CHECK        - O or 1 (if CRB score is greater then 600 then weight 1 else 0)
+
+3) BLACKLIST        -  1) AML   Blacklist           -  (If exist then reject else proceed)
+			2) Internal  Sidian  PAR     -  (If exist then reject else proceed)
+			
+4) GENDER           - MALE - 1, FEMALE 1.3 (WEIGHT)
+
+5) AGE 	     -  
+LVL    MIN     MAX   WEIGHT
+1	0	18	0
+2	19	25	3
+3	26	35	5
+4	36	45	7
+5	46	65	9 (Binning)
+			
+6) Score Percentage - Customer Weight / Total Weight * 100
+
+7) Weight Score     - 	
+LVL	SCORE		PROPOSED	INITIAL
+	PERCENTAGE
+A	>90	       40%		50%
+B	70-89	       35%		45%
+C	50-69	       30%		40%
+D	<50            0%		0%        (Binning)
+
+8) Approved amount  - Month Turnover / 100 * Weight Score
+
+NOTE :
+1) AML   Blacklist   - Rejected Directly
+2) Internal  Sidian  PAR - Rejected Directly
+3) AGE < 18 - Rejected Directly
+4) Minimum Loan - 1000
+5) Maximum Loan - 50000
+6) Maximum Score - 23.3 
+7) Upto customer weight 11, approved limit is 0. since percentage score is less then 50
+8) Minimum Average monthly Turnover should be greater then 3333. Then only Minimum proposed loan percentage (30%) / Average monthly Turnover goes beyond 1000 (Minimum Loan)
+9) Maximumum Average monthly Turnover is 1,66,666. Then the Minimum proposed loan percentage (30%) / Average monthly Turnover is 50000 (Maximum Loan). If Maximumum Average monthly Turnover goes above the our Maximum loan amount always be 50000
+
+WHAT TO PREDICT :
+1) CreditScorePoints - [0-23.3]
+2) CreditScoreGrade - [30,35,40]
+3) CreditLimit - [1000-50000] 
+
+
+TO BE IMPLEMENTED - 
+1) ACCOUNT TURNOVER IS LESS THEN 5000 (what to do while predict)
+2)  Check  AML   Blacklist   - data exist in blocklist table
+3)  Check  Internal  Sidian  PAR - Rejection - Rejection - replace 254 with M0

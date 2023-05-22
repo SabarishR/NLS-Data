@@ -1,0 +1,29 @@
+version: 1
+formatters:
+  format1:
+    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+  format2:
+    format: '\n-------------------------------------------------------------------------\n Datetime - %(asctime)s & Filename - %(name)s & Type - %(levelname)s \n-------------------------------------------------------------------------\n %(message)s'
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: DEBUG
+    formatter: format2
+    stream: ext://sys.stdout
+  file:
+    class: logging.FileHandler
+    level: DEBUG
+    filename: log/errorlog.log
+    
+loggers:
+  console:
+    level: DEBUG
+    handlers: [console]
+    propagate: no
+  file:
+    level: DEBUG
+    handlers: [file]
+    propagate: no
+root:
+  level: DEBUG
+  handlers: [console,file]

@@ -1,0 +1,390 @@
+ID,GENDER,CUSTOMER_RISK_STATUS,INDUSTRY,RESIDENCE,CUSTOMER_STATUS,SEGMENT,LOAN_BRANCH_CODE,PROMISE_SUCCESS,OUTCOME,TIME_STAMP,ACTIVITY,VERSION_NUMBER,GROUP_NAME,DELINQUENCY_STRING,DELINQUENT_STATUS,DAO_AREA,LOAN_STATUS,REPAY_FREQUENCY,REPAY_CURRENCY,LOAN_TYPE,LOAN_STAGE
+294147,,,,,Active,,9,YES,PTP,2021-11-23 13:42:56,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,100,COLLECTION
+123441,,,,,Active,,2,NO,Unreachable: Out of reach,2022-01-20 10:42:09,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,99,COLLECTION
+164919,,,,,Active,,6,NO,Unreachable: Ringing no answer,2022-01-26 09:11:56,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+46325,,,,,Active,,6,NO,Unreachable: Engaged,2022-01-26 11:48:49,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,15,
+76177,,,,,Active,,16,NO,Unreachable: Ringing no answer,2022-01-26 12:38:39,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,13,
+20321,,,,,Active,,10,NO,Client Situation Confirmed,2022-01-26 16:22:40,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,16,
+62908,,,,,Active,,4,YES,PTP,2022-01-27 11:29:08,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,8,
+34100,,,,,Active,,4,YES,PTP,2022-01-27 11:39:24,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+19030,,,,,Active,,8,YES,PTP,2022-01-27 17:13:12,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+115537,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-01-28 12:22:09,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+118038,,,,,Active,,2,NO,Unreachable: Ringing no answer,2022-01-28 12:54:11,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+30784,,,,,Active,,4,NO,Unreachable: Engaged,2022-01-28 15:08:24,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,4,
+107882,,,,,Active,,11,YES,PTP,2022-01-28 15:19:21,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+121599,,,,,Active,,11,YES,PTP,2022-01-28 16:07:02,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+120326,,,,,Active,,4,NO,Unreachable: Out of reach,2022-01-31 10:20:09,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,17,
+120579,,,,,Active,,4,NO,Client Situation Unconfirmed,2022-01-31 10:39:13,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+66326,,,,,Active,,10,NO,Unreachable: Out of reach,2022-01-31 11:56:41,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,1,
+48339,,,,,Active,,16,YES,PTP,2022-02-01 12:42:15,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,52,COLLECTION
+117062,,,,,Active,,9,NO,Invalid Contact: Wrong Number,2022-02-01 12:53:20,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,1,
+117104,,,,,Active,,10,NO,Unreachable: Ringing no answer,2022-02-01 14:46:19,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,18,
+128374,,,,,Active,,9,NO,Unreachable: Ringing no answer,2022-02-01 14:51:12,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,18,
+230683,,,,,Active,,31,YES,PTP,2022-02-07 10:51:54,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,81,
+74321,,,,,Active,,14,NO,NIP,2022-02-09 07:58:58,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,15,
+122540,,,,,Active,,14,YES,PTP,2022-02-09 08:19:05,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+115730,,,,,Active,,14,NO,Client Capacity Issues,2022-02-09 09:18:42,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,35,COLLECTION
+250345,,,,,Active,,2,NO,Unreachable: Out of reach,2022-02-09 12:18:39,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+253121,,,,,Active,,2,NO,Unreachable: Out of reach,2022-02-09 12:26:00,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+171052,,,,,Active,,8,NO,Unreachable: Out of reach,2022-02-09 12:44:24,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+171070,,,,,Active,,8,NO,NIP,2022-02-09 15:33:33,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+159907,,,,,Active,,8,NO,NIP,2022-02-11 10:19:25,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+65916,,,,,Active,,9,NO,Unreachable: Out of reach,2022-02-11 10:24:21,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+62160,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-02-11 10:33:16,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+176768,,,,,Active,,9,NO,Client Capacity Issues,2022-02-11 10:49:32,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+176766,,,,,Active,,9,NO,Unreachable: Out of Service,2022-02-11 10:54:45,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+182847,,,,,Active,,9,NO,Unreachable: Out of reach,2022-02-11 10:57:29,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+221178,,,,,Active,,27,NO,Unreachable: Ringing no answer,2022-02-11 11:12:47,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+213474,,,,,Active,,4,NO,Language Barrier,2022-02-11 11:24:15,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+273128,,,,,Active,,3,NO,Unreachable: Ringing no answer,2022-02-11 11:33:50,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+202044,,,,,Active,,4,YES,PTP,2022-02-11 11:39:16,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+171067,,,,,Active,,8,YES,PTP,2022-02-16 09:39:37,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+124878,,,,,Active,,5,YES,PTP,2022-02-17 02:26:49,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,78,
+211703,,,,,Active,,5,NO,Unreachable: Out of Service,2022-02-17 10:25:56,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,
+170271,,,,,Active,,16,NO,Invalid Contact: Wrong Number,2022-02-17 10:38:53,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,89,COLLECTION
+64893,,,,,Active,,32,NO,Unreachable: Ringing no answer,2022-02-17 10:44:21,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,95,
+185553,,,,,Active,,4,NO,Invalid Contact: Wrong Number,2022-02-17 10:44:37,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+175142,,,,,Active,,9,YES,PTP,2022-02-17 10:48:15,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,95,
+137213,,,,,Active,,9,NO,Unreachable: Out of reach,2022-02-17 10:55:04,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+114012,,,,,Active,,6,NO,Unreachable: Ringing no answer,2022-02-17 11:04:56,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,79,COLLECTION
+168494,,,,,Active,,10,YES,PTP,2022-02-17 11:13:33,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,COLLECTION
+185902,,,,,Active,,6,NO,Unreachable: Ringing no answer,2022-02-17 11:19:01,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,32,
+138428,,,,,Active,,41,NO,Unreachable: Ringing no answer,2022-02-17 11:23:30,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+218106,,,,,Active,,4,NO,Unwilling to Pay,2022-02-17 11:34:22,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,52,COLLECTION
+218302,,,,,Active,,16,NO,Unreachable: Out of reach,2022-02-17 11:36:44,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,89,COLLECTION
+202867,,,,,Active,,11,YES,PTP,2022-02-17 11:41:50,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,81,COLLECTION
+185898,,,,,Active,,6,NO,Unreachable: Out of reach,2022-02-17 11:49:08,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,32,
+140888,,,,,Active,,7,YES,PTP,2022-02-17 11:51:18,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,79,COLLECTION
+170398,,,,,Active,,29,YES,PTP,2022-02-17 11:55:01,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+59295,,,,,Active,,9,YES,PTP,2022-02-17 12:21:00,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,84,COLLECTION
+8697,,,,,Active,,9,YES,PTP,2022-02-17 12:29:16,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+56064,,,,,Active,,8,YES,PTP,2022-02-17 12:36:22,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,
+255459,,,,,Active,,4,YES,PTP,2022-02-17 12:52:12,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,78,COLLECTION
+2416,,,,,Active,,4,NO,NIP,2022-02-18 09:06:07,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+213474,,,,,Active,,4,YES,PTP,2022-02-18 09:24:57,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+159907,,,,,Active,,8,NO,Unreachable: Ringing no answer,2022-02-18 09:36:16,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+273129,,,,,Active,,3,NO,NIP,2022-02-18 09:52:33,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+116943,,,,,Active,,4,NO,Unreachable: Out of reach,2022-02-18 10:41:38,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+171067,,,,,Active,,8,NO,Unreachable: Ringing no answer,2022-02-18 11:27:29,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+206125,,,,,Active,,2,NO,SIP,2022-02-18 11:31:46,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+182126,,,,,Active,,6,NO,Unreachable: Out of reach,2022-02-18 11:41:07,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,78,COLLECTION
+283445,,,,,Active,,11,YES,PTP,2022-02-18 11:47:28,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+201205,,,,,Active,,16,YES,PTP,2022-02-18 11:51:28,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+283471,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-02-18 12:09:29,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,COLLECTION
+185601,,,,,Active,,6,YES,PTP,2022-02-18 12:21:11,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+287838,,,,,Active,,11,YES,PTP,2022-02-18 12:28:23,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,100,COLLECTION
+189327,,,,,Active,,2,YES,PTP,2022-02-18 12:34:15,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+10337,,,,,Active,,16,YES,PTP,2022-02-21 11:21:55,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,32,
+206125,,,,,Active,,2,NO,SIP,2022-02-21 11:47:22,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+182126,,,,,Active,,6,YES,PTP,2022-02-21 12:19:15,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,78,COLLECTION
+278452,,,,,Active,,6,NO,Unreachable: Ringing no answer,2022-02-21 12:51:03,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+261135,,,,,Active,,6,NO,Unreachable: Out of reach,2022-02-21 12:54:56,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+255926,,,,,Active,,11,YES,PTP,2022-02-21 13:03:50,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,81,COLLECTION
+80174,,,,,Active,,6,NO,Unwilling to Pay,2022-02-21 13:19:16,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+185594,,,,,Active,,6,YES,PTP,2022-02-21 15:59:30,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+249923,,,,,Active,,11,NO,NIP,2022-02-21 16:28:56,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,81,COLLECTION
+279870,,,,,Active,,2,YES,PTP,2022-02-21 16:31:49,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+165449,,,,,Active,,10,NO,Unreachable: Out of reach,2022-02-21 16:33:32,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+276424,,,,,Active,,3,NO,Unwilling to Pay,2022-02-21 16:40:54,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+282807,,,,,Active,,11,YES,PTP,2022-02-21 16:49:03,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,COLLECTION
+102827,,,,,Active,,9,NO,Unreachable: Out of reach,2022-02-21 16:55:26,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+182847,,,,,Active,,9,NO,Unreachable: Out of reach,2022-02-21 16:58:20,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+200913,,,,,Active,,2,NO,Unreachable: Out of reach,2022-02-21 17:00:21,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+202044,,,,,Active,,4,YES,PTP,2022-02-21 17:15:06,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+164369,,,,,Active,,9,YES,PTP,2022-02-22 08:30:27,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,68,
+131214,,,,,Active,,4,YES,PTP,2022-02-22 10:09:17,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+131363,,,,,Active,,10,YES,PTP,2022-02-22 10:20:55,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+136975,,,,,Active,,6,NO,Unreachable: Ringing no answer,2022-02-22 10:28:07,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+200834,,,,,Active,,2,NO,NIP,2022-02-22 10:30:48,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+200834,,,,,Active,,2,NO,Unreachable: Ringing no answer,2022-02-22 10:34:54,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+275537,,,,,Active,,3,NO,Unreachable: Ringing no answer,2022-02-22 10:40:38,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+195775,,,,,Active,,6,NO,Unreachable: Ringing no answer,2022-02-22 10:47:18,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+65916,,,,,Active,,9,NO,Unreachable: Out of reach,2022-02-22 10:49:49,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+281754,,,,,Active,,11,NO,NIP,2022-02-22 10:53:57,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+118544,,,,,Active,,16,NO,Unreachable: Out of reach,2022-02-22 10:58:00,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+92780,,,,,Active,,16,YES,PTP,2022-02-22 11:07:29,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+247650,,,,,Active,,16,YES,PTP,2022-02-22 11:14:35,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,79,COLLECTION
+247649,,,,,Active,,16,NO,Unreachable: Out of reach,2022-02-22 11:17:50,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+92254,,,,,Active,,10,NO,NIP,2022-02-22 11:23:09,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+152726,,,,,Active,,9,NO,Unreachable: Out of Service,2022-02-22 11:27:56,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+221766,,,,,Active,,4,NO,Unreachable: Ringing no answer,2022-02-22 11:52:18,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+62530,,,,,Active,,16,NO,SIP,2022-02-22 11:53:58,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+62530,,,,,Active,,16,NO,Unwilling to Pay,2022-02-22 11:59:39,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+180003,,,,,Active,,3,YES,PTP,2022-02-22 12:07:07,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+250345,,,,,Active,,2,NO,NIP,2022-02-22 12:14:39,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+163338,,,,,Active,,9,YES,PTP,2022-02-22 12:16:40,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+195685,,,,,Active,,6,NO,NIP,2022-02-22 12:32:23,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,79,COLLECTION
+189323,,,,,Active,,2,NO,Unreachable: Ringing no answer,2022-02-22 12:51:32,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,75,COLLECTION
+169903,,,,,Active,,16,NO,Unwilling to Pay,2022-02-22 12:53:17,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+50442,,,,,Active,,6,NO,Unwilling to Pay,2022-02-22 13:00:27,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,79,COLLECTION
+62149,,,,,Active,,16,YES,PTP,2022-02-22 14:53:44,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+92634,,,,,Active,,27,YES,PTP,2022-02-22 14:55:57,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,79,COLLECTION
+92634,,,,,Active,,27,NO,Unreachable: Ringing no answer,2022-02-22 15:07:56,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+179517,,,,,Active,,8,YES,PTP,2022-02-22 15:09:27,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,
+56064,,,,,Active,,8,YES,PTP,2022-02-23 08:42:23,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,
+255459,,,,,Active,,4,YES,PTP,2022-02-23 08:51:12,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,78,COLLECTION
+2416,,,,,Active,,4,YES,PTP,2022-02-23 09:02:48,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+159907,,,,,Active,,8,NO,NIP,2022-02-23 09:30:22,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+273129,,,,,Active,,3,YES,PTP,2022-02-23 09:43:32,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+116943,,,,,Active,,4,NO,NIP,2022-02-23 09:51:42,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+171067,,,,,Active,,8,NO,SKIP TRACE,2022-02-23 09:59:27,CALL,6,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+206125,,,,,Active,,2,NO,Unwilling to Pay,2022-02-23 10:04:36,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+4516,,,,,Active,,11,YES,PTP,2022-02-23 11:51:03,CALL,2,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o27D e0F,,1,
+46245,,,,,Active,,6,YES,PTP,2022-02-23 12:03:25,CALL,2,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o27D e0F,,1,
+28345,,,,,Active,,4,NO,DECEASED,2022-02-23 12:14:53,CALL,2,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o27D e0F,,16,
+61480,,,,,Active,,3,NO,NIP,2022-02-23 12:23:18,CALL,2,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o28D e0F,,15,
+59938,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-02-23 12:29:28,CALL,2,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o28D e0F,,8,
+30785,,,,,Active,,4,YES,PTP,2022-02-23 12:37:57,CALL,2,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o27D e0F,,19,
+51854,,,,,Active,,16,NO,NIP,2022-02-23 12:46:36,CALL,2,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o27D e0F,,1,
+65479,,,,,Active,,3,NO,NIP,2022-02-23 12:51:56,CALL,2,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o27D e0F,,24,
+71148,,,,,Active,,8,YES,PTP,2022-02-23 12:59:17,CALL,2,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o28D e0F,,1,
+164369,,,,,Active,,9,YES,PTP,2022-02-23 15:13:21,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,68,
+281754,,,,,Active,,11,YES,PTP,2022-02-23 15:39:05,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+247650,,,,,Active,,16,NO,SKIP TRACE,2022-02-23 15:40:16,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+65479,,,,,Active,,3,NO,Unwilling to Pay,2022-02-23 16:22:26,CALL,3,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o27D e0F,,24,
+283471,,,,,Active,,11,YES,PTP,2022-02-24 09:14:35,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+280646,,,,,Active,,2,NO,Unreachable: Out of reach,2022-02-24 09:29:50,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+280596,,,,,Active,,2,NO,Unreachable: Out of reach,2022-02-24 09:33:31,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+280329,,,,,Active,,6,YES,PTP,2022-02-24 09:38:43,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+279881,,,,,Active,,2,NO,Unreachable: Out of reach,2022-02-24 09:41:56,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+278452,,,,,Active,,6,NO,Unreachable: Out of reach,2022-02-24 09:55:24,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+278106,,,,,Active,,6,YES,PTP,2022-02-24 10:00:54,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+278099,,,,,Active,,6,NO,Unreachable: Ringing no answer,2022-02-24 10:05:43,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+174408,,,,,Active,,16,NO,Unreachable: Out of Service,2022-02-24 10:10:37,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,COLLECTION
+209787,,,,,Active,,16,NO,Unreachable: Out of reach,2022-02-24 10:21:57,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+179964,,,,,Active,,3,NO,Unreachable: Out of reach,2022-02-24 10:30:46,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+275820,,,,,Active,,8,YES,PTP,2022-02-24 10:39:37,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+259615,,,,,Active,,8,NO,Unreachable: Ringing no answer,2022-02-24 10:44:08,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+275537,,,,,Active,,3,NO,Unreachable: Ringing no answer,2022-02-24 10:48:27,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+273678,,,,,Active,,3,NO,NIP,2022-02-24 11:00:21,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+273677,,,,,Active,,3,YES,PTP,2022-02-24 11:06:07,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+273130,,,,,Active,,3,NO,NIP,2022-02-24 11:12:15,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+273129,,,,,Active,,3,NO,Unreachable: Ringing no answer,2022-02-24 11:17:24,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+273128,,,,,Active,,3,YES,PTP,2022-02-24 11:22:59,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+265236,,,,,Active,,16,NO,Unreachable: Out of reach,2022-02-24 11:51:51,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+261727,,,,,Active,,27,NO,SKIP TRACE,2022-02-24 12:09:49,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+261135,,,,,Active,,6,NO,Unreachable: Out of reach,2022-02-24 12:13:19,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+260653,,,,,Active,,4,YES,PTP,2022-02-24 12:31:46,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+259800,,,,,Active,,4,YES,PTP,2022-02-24 12:46:09,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+259768,,,,,Active,,9,NO,Unreachable: Out of reach,2022-02-24 12:52:44,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+247650,,,,,Active,,16,NO,Unreachable: Ringing no answer,2022-02-24 15:22:36,CALL,4,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+281754,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-02-24 15:25:47,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+120934,,,,,Active,,11,NO,Unreachable: Out of Service,2022-02-24 15:29:31,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,59,COLLECTION
+120934,,,,,Active,,11,YES,PTP,2022-02-24 16:39:35,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,59,COLLECTION
+132797,,,,,Active,,8,NO,Unreachable: Ringing no answer,2022-02-25 10:47:35,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+120934,,,,,Active,,11,YES,PTP,2022-02-28 14:30:05,CALL,4,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,59,COLLECTION
+273130,,,,,Active,,3,NO,SKIP TRACE,2022-03-02 10:16:29,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+84715,,,,,Active,,11,YES,PTP,2022-03-02 10:22:58,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,32,
+218908,,,,,Active,,2,NO,Unreachable: Ringing no answer,2022-03-02 10:29:25,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+30785,,,,,Active,,4,YES,PTP,2022-03-02 10:33:01,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,32,
+62149,,,,,Active,,16,NO,NIP,2022-03-02 11:04:28,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+176768,,,,,Active,,9,NO,Unreachable: Ringing no answer,2022-03-02 11:08:08,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+92634,,,,,Active,,27,NO,Unreachable: Ringing no answer,2022-03-02 11:11:13,CALL,4,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+131363,,,,,Active,,10,NO,Unreachable: Ringing no answer,2022-03-02 11:23:19,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+255926,,,,,Active,,11,YES,PTP,2022-03-02 11:34:20,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,81,COLLECTION
+281754,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-03-02 11:46:29,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+259768,,,,,Active,,9,NO,Unreachable: Out of reach,2022-03-02 12:42:42,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+259615,,,,,Active,,8,NO,Unwilling to Pay,2022-03-02 12:53:13,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+258316,,,,,Active,,2,NO,Unreachable: Out of reach,2022-03-02 12:59:30,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+258262,,,,,Active,,29,NO,SKIP TRACE,2022-03-02 13:07:14,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+258210,,,,,Active,,11,NO,Unreachable: Out of reach,2022-03-02 14:22:52,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+258019,,,,,Active,,4,NO,NIP,2022-03-02 14:28:16,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+257599,,,,,Active,,9,YES,PTP,2022-03-02 14:37:10,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,COLLECTION
+256408,,,,,Active,,9,NO,Arrears Cause Confirmed,2022-03-02 14:39:58,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+255459,,,,,Active,,4,NO,Unreachable: Ringing no answer,2022-03-02 14:50:56,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,78,COLLECTION
+254928,,,,,Active,,9,NO,Unreachable: Ringing no answer,2022-03-02 15:01:28,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,COLLECTION
+254880,,,,,Active,,29,NO,Unreachable: Out of reach,2022-03-02 15:06:06,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,79,
+254470,,,,,Active,,4,YES,PTP,2022-03-02 15:14:25,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+253616,,,,,Active,,6,NO,Unreachable: Out of reach,2022-03-02 15:18:22,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+253534,,,,,Active,,41,YES,PTP,2022-03-02 15:22:26,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+253529,,,,,Active,,2,NO,NIP,2022-03-02 15:28:32,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+253324,,,,,Active,,8,NO,Unwilling to Pay,2022-03-02 15:58:01,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,COLLECTION
+253124,,,,,Active,,2,NO,Unreachable: Ringing no answer,2022-03-02 16:05:45,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+253121,,,,,Active,,2,NO,Unreachable: Out of reach,2022-03-02 16:36:08,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+252262,,,,,Active,,9,NO,Unreachable: Out of reach,2022-03-02 16:38:57,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+251779,,,,,Active,,29,NO,Unreachable: Out of reach,2022-03-02 16:45:20,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,79,COLLECTION
+201205,,,,,Active,,16,YES,PTP,2022-03-03 08:59:32,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+85715,,,,,Active,,3,YES,PTP,2022-03-03 09:06:08,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,67,COLLECTION
+85715,,,,,Active,,3,YES,PTP,2022-03-03 09:07:24,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,67,COLLECTION
+176768,,,,,Active,,9,NO,Unreachable: Ringing no answer,2022-03-03 09:19:51,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+92780,,,,,Active,,16,NO,Unreachable: Ringing no answer,2022-03-03 10:04:17,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+250345,,,,,Active,,2,NO,Unreachable: Out of reach,2022-03-03 10:07:33,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+25726,,,,,Active,,3,YES,PTP,2022-03-03 10:25:05,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+213609,,,,,Active,,11,YES,PTP,2022-03-03 10:29:29,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,52,
+8697,,,,,Active,,9,YES,PTP,2022-03-03 10:46:02,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+131290,,,,,Active,,4,NO,Unreachable: Ringing no answer,2022-03-03 12:33:35,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+2416,,,,,Active,,4,YES,PTP,2022-03-03 12:40:43,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+253529,,,,,Active,,2,YES,PTP,2022-03-03 14:32:42,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+253529,,,,,Active,,2,YES,PTP,2022-03-03 14:33:48,CALL,4,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+4744,,,,,Active,,2,NO,Unreachable: Out of reach,2022-03-03 14:39:04,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,
+6317,,,,,Active,,3,YES,PTP,2022-03-03 14:46:37,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+7641,,,,,Active,,3,NO,Unreachable: Out of reach,2022-03-03 14:53:27,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,
+8100,,,,,Active,,9,YES,PTP,2022-03-03 15:12:56,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+8308,,,,,Active,,9,NO,Unreachable: Ringing no answer,2022-03-03 15:21:53,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+8407,,,,,Active,,8,YES,PTP,2022-03-03 15:30:27,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,
+10337,,,,,Active,,16,NO,Unreachable: Ringing no answer,2022-03-03 15:40:55,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,32,
+10594,,,,,Active,,2,NO,NIP,2022-03-03 15:51:35,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,
+10923,,,,,Active,,41,YES,PTP,2022-03-03 16:04:29,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,79,COLLECTION
+11693,,,,,Active,,9,YES,PTP,2022-03-03 16:09:27,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,
+10594,,,,,Active,,2,NO,NIP,2022-03-03 16:23:23,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,
+12020,,,,,Active,,9,NO,NIP,2022-03-03 16:43:53,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,
+13718,,,,,Active,,9,NO,Unreachable: Ringing no answer,2022-03-03 16:54:07,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,COLLECTION
+13947,,,,,Active,,2,NO,Unreachable: Out of reach,2022-03-03 16:56:46,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,COLLECTION
+250345,,,,,Active,,2,NO,Unreachable: Out of reach,2022-03-04 08:58:10,CALL,6,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+287838,,,,,Active,,11,NO,NIP,2022-03-04 09:08:53,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,100,COLLECTION
+218908,,,,,Active,,2,NO,Unreachable: Ringing no answer,2022-03-04 09:12:16,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+176579,,,,,Active,,2,YES,PTP,2022-03-04 09:24:59,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+62149,,,,,Active,,16,NO,SKIP TRACE,2022-03-04 10:09:28,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+19030,,,,,Active,,8,NO,Unwilling to Pay,2022-03-04 12:00:10,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+22461,,,,,Active,,8,YES,PTP,2022-03-04 12:06:56,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,32,
+25057,,,,,Active,,27,YES,PTP,2022-03-04 14:27:17,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,67,COLLECTION
+26347,,,,,Active,,9,YES,PTP,2022-03-04 14:41:51,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,95,
+34100,,,,,Active,,4,NO,Unreachable: Ringing no answer,2022-03-04 15:07:16,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+48178,,,,,Active,,16,NO,SIP,2022-03-04 15:22:12,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,67,
+48339,,,,,Active,,16,YES,PTP,2022-03-04 15:27:36,CALL,4,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,52,COLLECTION
+58056,,,,,Active,,3,NO,Unwilling to Pay,2022-03-04 15:43:40,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+61480,,,,,Active,,3,YES,PTP,2022-03-04 15:56:02,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,68,
+65479,,,,,Active,,3,NO,NIP,2022-03-04 16:12:00,CALL,4,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+182126,,,,,Active,,6,YES,PTP,2022-03-07 09:09:59,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,78,COLLECTION
+48339,,,,,Active,,16,YES,PTP,2022-03-07 09:53:08,CALL,5,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,52,COLLECTION
+34100,,,,,Active,,4,YES,PTP,2022-03-07 10:34:50,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+115163,,,,,Active,,8,YES,PTP,2022-03-07 10:40:14,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,4,
+131363,,,,,Active,,10,YES,PTP,2022-03-07 10:54:36,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+61480,,,,,Active,,3,YES,PTP,2022-03-07 11:00:35,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,68,
+137333,,,,,Active,,9,YES,PTP,2022-03-07 11:09:14,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+10337,,,,,Active,,16,NO,Unwilling to Pay,2022-03-07 11:41:20,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,32,
+282807,,,,,Active,,11,NO,Unreachable: Out of reach,2022-03-07 11:45:08,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+137333,,,,,Active,,9,NO,Unreachable: Ringing no answer,2022-03-08 11:19:29,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+22461,,,,,Active,,8,NO,Unreachable: Ringing no answer,2022-03-08 11:33:28,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,32,
+74064,,,,,Active,,8,NO,Unreachable: Out of Service,2022-03-08 11:57:24,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,52,
+78765,,,,,Active,,2,NO,Unreachable: Out of Service,2022-03-08 12:24:23,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,COLLECTION
+82177,,,,,Active,,16,NO,Unreachable: Out of reach,2022-03-08 12:31:30,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+84715,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-03-08 12:35:45,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,32,
+86077,,,,,Active,,11,NO,Arrears Cause Confirmed,2022-03-08 12:58:19,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,COLLECTION
+273130,,,,,Active,,3,NO,Unreachable: Ringing no answer,2022-03-09 10:16:00,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+251158,,,,,Active,,16,NO,Unreachable: Ringing no answer,2022-03-09 10:23:48,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,
+4516,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-03-09 10:45:41,CALL,3,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o28D e0F,,1,
+137333,,,,,Active,,9,NO,SKIP TRACE,2022-03-09 10:50:54,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+87041,,,,,Active,,3,YES,PTP,2022-03-09 11:10:53,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,68,
+88502,,,,,Active,,3,YES,PTP,2022-03-09 11:19:20,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,15,
+89641,,,,,Active,,9,NO,Unreachable: Out of reach,2022-03-09 11:32:07,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,4,
+92074,,,,,Active,,6,NO,Unreachable: Ringing no answer,2022-03-09 11:46:09,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,95,
+105091,,,,,Active,,16,NO,Unreachable: Out of Service,2022-03-09 12:08:59,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,59,
+105527,,,,,Active,,3,NO,Unreachable: Ringing no answer,2022-03-09 12:23:25,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,COLLECTION
+106118,,,,,Active,,3,NO,Unreachable: Ringing no answer,2022-03-09 12:34:14,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,18,
+106121,,,,,Active,,11,NO,Unreachable: Out of Service,2022-03-09 12:39:47,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,
+107882,,,,,Active,,11,YES,PTP,2022-03-09 12:59:29,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+107994,,,,,Active,,8,NO,Unreachable: Out of reach,2022-03-09 15:16:12,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,70,COLLECTION
+110943,,,,,Active,,9,NO,Unreachable: Ringing no answer,2022-03-09 15:31:52,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,24,
+111465,,,,,Active,,6,NO,Unreachable: Ringing no answer,2022-03-09 15:52:56,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,95,
+111857,,,,,Active,,10,NO,Unreachable: Ringing no answer,2022-03-09 16:07:22,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,68,
+113521,,,,,Active,,16,NO,Unreachable: Ringing no answer,2022-03-09 16:30:29,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,COLLECTION
+113061,,,,,Active,,8,YES,PTP,2022-03-09 16:32:02,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,68,
+108025,,,,,Active,,4,YES,PTP,2022-03-09 17:03:46,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+218908,,,,,Active,,2,NO,Unreachable: Out of reach,2022-03-10 10:06:10,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+11693,,,,,Active,,9,YES,PTP,2022-03-10 10:13:07,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,
+218908,,,,,Active,,2,YES,PTP,2022-03-10 10:20:21,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+46245,,,,,Active,,6,NO,Unreachable: Ringing no answer,2022-03-10 10:41:47,CALL,3,Individual,PERSONAL BANKING,,,Closed (obligations met),e0Y e1M e0W o28D e0F,,1,
+93127,,,,,Active,,11,NO,NIP,2022-03-10 10:49:04,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,COLLECTION
+99459,,,,,Active,,4,YES,PTP,2022-03-10 10:55:55,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,COLLECTION
+99459,,,,,Active,,4,YES,PTP,2022-03-10 10:59:49,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,COLLECTION
+93127,,,,,Active,,11,NO,NIP,2022-03-10 11:24:43,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,67,COLLECTION
+104309,,,,,Active,,3,NO,Unreachable: Out of reach,2022-03-10 11:43:16,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+115537,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-03-10 12:36:15,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+145633,,,,,Active,,8,NO,SIP,2022-03-10 15:04:49,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,70,
+218106,,,,,Active,,4,NO,NIP,2022-03-10 16:12:33,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,52,COLLECTION
+213609,,,,,Active,,11,YES,PTP,2022-03-10 16:21:29,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,52,
+202867,,,,,Active,,11,YES,PTP,2022-03-10 16:31:22,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,81,COLLECTION
+283445,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-03-11 09:01:41,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+113061,,,,,Active,,8,NO,Unreachable: Ringing no answer,2022-03-11 09:06:07,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,68,
+176579,,,,,Active,,2,YES,PTP,2022-03-11 09:11:08,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+108025,,,,,Active,,4,YES,PTP,2022-03-11 09:36:51,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+257599,,,,,Active,,9,NO,Unreachable: Out of reach,2022-03-11 09:44:18,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+8100,,,,,Active,,9,YES,PTP,2022-03-11 09:48:55,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+251224,,,,,Active,,8,NO,Unreachable: Out of reach,2022-03-11 09:54:29,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,COLLECTION
+283471,,,,,Active,,11,YES,PTP,2022-03-11 14:46:43,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+280646,,,,,Active,,2,NO,Unreachable: Out of reach,2022-03-11 14:57:24,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+280329,,,,,Active,,6,YES,PTP,2022-03-11 15:09:09,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+279870,,,,,Active,,2,NO,Unreachable: Ringing no answer,2022-03-11 15:31:33,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+278106,,,,,Active,,6,YES,PTP,2022-03-11 15:41:02,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+278099,,,,,Active,,6,NO,SIP,2022-03-11 15:46:44,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+276424,,,,,Active,,3,YES,PTP,2022-03-11 16:02:49,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+115163,,,,,Active,,8,NO,Unreachable: Ringing no answer,2022-03-14 09:31:54,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,1,
+88502,,,,,Active,,3,YES,PTP,2022-03-14 11:34:38,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,15,
+136833,,,,,Active,,6,YES,PTP,2022-03-14 12:17:52,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,52,COLLECTION
+155069,,,,,Active,,4,YES,PTP,2022-03-14 12:24:48,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,59,
+4516,,,,,Active,,11,YES,PTP,2022-03-14 12:30:33,CALL,4,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,59,
+254470,,,,,Active,,4,YES,PTP,2022-03-14 16:53:49,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+107882,,,,,Active,,11,YES,PTP,2022-03-14 17:07:29,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+137333,,,,,Active,,9,YES,PTP,2022-03-15 10:00:13,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+201205,,,,,Active,,16,NO,Unwilling to Pay,2022-03-15 14:42:05,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+104909,,,,,Active,,3,NO,NIP,2022-03-15 16:03:26,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,
+106543,,,,,Active,,11,NO,NIP,2022-03-15 16:13:21,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,52,COLLECTION
+254470,,,,,Active,,4,YES,PTP,2022-03-16 11:16:35,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+117164,,,,,Active,,16,NO,Unreachable: Ringing no answer,2022-03-16 14:32:19,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,67,
+106543,,,,,Active,,11,NO,NIP,2022-03-16 15:41:13,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,52,COLLECTION
+117908,,,,,Active,,10,NO,NIP,2022-03-16 16:12:13,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,68,
+118038,,,,,Active,,2,NO,Unreachable: Ringing no answer,2022-03-16 16:39:09,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+120255,,,,,Active,,8,NO,NIP,2022-03-16 16:42:14,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+120326,,,,,Active,,4,NO,NIP,2022-03-17 10:06:23,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,17,
+120579,,,,,Active,,4,NO,Client Situation Unconfirmed,2022-03-17 10:19:15,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+265236,,,,,Active,,16,NO,SKIP TRACE,2022-03-17 10:32:03,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+121599,,,,,Active,,11,NO,NIP,2022-03-17 10:53:59,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+123031,,,,,Active,,10,NO,Unreachable: Ringing no answer,2022-03-17 11:04:51,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+123033,,,,,Active,,8,YES,PTP,2022-03-17 11:14:02,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,70,
+123470,,,,,Active,,11,NO,NIP,2022-03-17 11:19:49,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,59,COLLECTION
+124131,,,,,Active,,16,YES,PTP,2022-03-17 11:36:05,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,
+117908,,,,,Active,,10,YES,PTP,2022-03-17 14:34:48,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,68,
+124286,,,,,Active,,9,NO,SKIP TRACE,2022-03-17 14:48:55,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,70,
+125115,,,,,Active,,3,NO,Unwilling to Pay,2022-03-17 15:12:32,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+125297,,,,,Active,,11,NO,Unreachable: Out of reach,2022-03-17 15:26:01,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,52,COLLECTION
+123833,,,,,Active,,4,YES,PTP,2022-03-18 10:03:55,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,17,
+283445,,,,,Active,,11,YES,PTP,2022-03-18 10:33:51,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+273130,,,,,Active,,3,NO,Unwilling to Pay,2022-03-18 10:45:59,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+251158,,,,,Active,,16,NO,NIP,2022-03-18 10:57:32,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,
+61480,,,,,Active,,3,NO,Unreachable: Ringing no answer,2022-03-18 11:09:52,CALL,5,Individual,PERSONAL BANKING,,,Closed (written off),e0Y e1M e0W o28D e0F,,95,
+62149,,,,,Active,,16,YES,PTP,2022-03-18 11:15:40,CALL,5,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,74,COLLECTION
+106543,,,,,Active,,11,YES,PTP,2022-03-18 11:56:48,CALL,4,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,52,COLLECTION
+128374,,,,,Active,,9,NO,Unreachable: Ringing no answer,2022-03-21 10:55:30,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,18,
+129379,,,,,Active,,8,YES,PTP,2022-03-21 11:00:49,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,52,COLLECTION
+129379,,,,,Active,,8,NO,NIP,2022-03-21 11:19:05,CALL,3,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,52,COLLECTION
+129387,,,,,Active,,8,YES,PTP,2022-03-21 11:22:05,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+129387,,,,,Active,,8,NO,SKIP TRACE,2022-03-21 11:24:31,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+129387,,,,,Active,,8,NO,SIP,2022-03-21 11:28:05,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+129721,,,,,Active,,4,YES,PTP,2022-03-21 11:32:03,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+129721,,,,,Active,,4,YES,PTP,2022-03-21 11:34:54,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+129940,,,,,Active,,3,NO,NIP,2022-03-21 11:46:32,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+130070,,,,,Active,,3,NO,Unreachable: Ringing no answer,2022-03-21 14:29:03,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+130330,,,,,Active,,6,YES,PTP,2022-03-21 14:37:10,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,68,COLLECTION
+130665,,,,,Active,,3,YES,PTP,2022-03-21 14:44:00,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,67,
+131290,,,,,Active,,4,NO,Unreachable: Ringing no answer,2022-03-21 15:11:10,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+131321,,,,,Active,,3,YES,PTP,2022-03-21 15:23:23,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+131369,,,,,Active,,8,NO,Unwilling to Pay,2022-03-21 15:55:07,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+132608,,,,,Active,,8,YES,PTP,2022-03-21 15:57:17,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+132608,,,,,Active,,8,YES,PTP,2022-03-21 16:02:21,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,
+92780,,,,,Active,,16,NO,Unreachable: Ringing no answer,2022-03-22 09:30:54,CALL,4,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,COLLECTION
+30335,,,,,Active,,4,YES,PTP,2022-03-22 15:40:34,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,74,COLLECTION
+132800,,,,,Active,,4,YES,PTP,2022-03-22 15:47:14,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,52,COLLECTION
+132802,,,,,Active,,2,NO,Unreachable: Out of reach,2022-03-22 16:01:38,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,67,COLLECTION
+133455,,,,,Active,,3,NO,Unreachable: Out of reach,2022-03-22 16:09:31,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,68,
+133561,,,,,Active,,3,YES,PTP,2022-03-22 16:23:08,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,52,COLLECTION
+133691,,,,,Active,,3,NO,Unreachable: Ringing no answer,2022-03-22 16:29:49,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,67,
+133744,,,,,Active,,10,NO,Unreachable: Ringing no answer,2022-03-22 16:46:27,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+202867,,,,,Active,,11,YES,PTP,2022-03-23 10:30:32,CALL,4,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,81,COLLECTION
+131214,,,,,Active,,4,YES,PTP,2022-03-23 10:38:38,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+124370,,,,,Active,,11,NO,Unreachable: Out of reach,2022-03-23 17:00:46,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,79,COLLECTION
+221766,,,,,Active,,4,YES,PTP,2022-03-23 17:11:26,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,79,COLLECTION
+156347,,,,,Active,,8,YES,PTP,2022-03-24 10:46:28,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,67,
+163338,,,,,Active,,9,NO,Unreachable: Out of reach,2022-03-24 10:57:03,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+132675,,,,,Active,,11,NO,Unreachable: Out of reach,2022-03-24 11:39:37,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,52,
+84715,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-03-24 11:45:40,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,32,
+25726,,,,,Active,,3,YES,PTP,2022-03-24 11:52:58,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+60326,,,,,Active,,3,YES,PTP,2022-03-24 15:46:05,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,75,COLLECTION
+116825,,,,,Active,,9,NO,Unreachable: Out of reach,2022-03-24 16:27:06,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o28D e0F,,74,
+149630,,,,,Active,,29,NO,Unreachable: Ringing no answer,2022-03-24 16:33:10,CALL,2,Individual,PERSONAL BANKING,,,Restructured,e0Y e1M e0W o27D e0F,,79,COLLECTION
+136975,,,,,Active,,6,NO,NIP,2022-03-24 16:38:26,CALL,3,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,52,COLLECTION
+287838,,,,,Active,,11,NO,Unreachable: Ringing no answer,2022-03-24 17:03:36,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,100,COLLECTION
+108025,,,,,Active,,4,NO,Unreachable: Out of reach,2022-03-25 10:42:02,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,74,COLLECTION
+163451,,,,,Active,,9,NO,Unreachable: Ringing no answer,2022-03-25 12:29:31,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,68,
+164369,,,,,Active,,9,YES,PTP,2022-03-25 12:36:57,CALL,4,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o28D e0F,,68,
+165592,,,,,Active,,9,NO,Unreachable: Ringing no answer,2022-03-25 12:57:22,CALL,2,Individual,PERSONAL BANKING,,,Active,e0Y e1M e0W o27D e0F,,68,

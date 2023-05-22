@@ -1,0 +1,29 @@
+2) Best time/period to contact delinquent client - availability 
+
+INPUTS
+1) CUSTOMER_ID – Unique reference of the customer
+2) GENDER – Gender of the customer
+3) CUSTOMER_RISK_STATUS – Risk status of the customer
+4) INDUSTRY – Different types of occupation
+5) RESIDENCE – Living country of the customer
+6) CUSTOMER_STATUS – ability of the customer able to pay (healthy,deceased)
+7) SEGMENT – Classification of specific customer
+8) BRANCH – Customer product hold location
+9) PROMISE_SUCCESS – Promise to pay status
+10) OUTCOME - based on call added the overdue status
+11) TIME_STAMP - Time of Call initiated
+12) ACTIVITY – CALL (Contact Mode)
+13) VERSION_NUMBER - History of the call count	
+14) GROUP_NAME – classification of loan type 
+15) DELINQUENCY_STRING – Classificartion of segment
+16) DELINQUENT_STATUS – Customer grading 
+17) DAO_AREA – Branch region of customer 
+18) LOAN_STATUS – Status of the loan
+19) REPAY_FREQUENCY – Customer loan repayment frequency
+20) REPAY_CURRENCY – mode of prefered payment 	
+21) LOAN_TYPE – Type of the loan
+22) STAGE – Collection Stage of the customer
+
+
+OUTPUTS
+PREFERRED_SESSION - Early morning(4am to 7am),Morning(7am to 10 am),Late morning(10am to 12pm), Afternoon(12pm to 2pm),Late afternoon(2pm to 5pm),Evening(5pm to 7pm),Late evening(7pm to 9pm),Night(9pm to 4am)

@@ -1,0 +1,10 @@
+create table tbl_recon_nostro$execution$history (
+ID int(11) NOT NULL AUTO_INCREMENT,
+ACCOUNT_NO varchar(500) NOT NULL,
+RESPONSE varchar(8000) NOT NULL,
+CREATED_BY varchar(200) DEFAULT NULL,
+CREATED_ON datetime NOT NULL,
+UPDATED_BY varchar(200) DEFAULT NULL,
+UPDATED_ON datetime DEFAULT NULL,
+PRIMARY KEY (`ID`)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;

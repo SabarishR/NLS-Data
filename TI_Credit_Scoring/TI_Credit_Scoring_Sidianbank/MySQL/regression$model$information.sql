@@ -1,0 +1,16 @@
+CREATE TABLE  `regression$model$information` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `MODEL_NAME` varchar(200) NOT NULL,
+  `FILE_NAME` varchar(200) NOT NULL,
+  `SCALAR_NAME` varchar(200) NOT NULL,
+  `R2SCORE` float8 NOT NULL,
+  `EXPLAINEDVARIANCE` float8 DEFAULT NULL,
+  `MAE` float DEFAULT NULL,
+  `MSE` float DEFAULT NULL,
+  `RMSE` float DEFAULT NULL,
+  `CREATED_BY` varchar(200) DEFAULT NULL,
+  `CREATED_ON` datetime NOT NULL,
+  `UPDATED_BY` varchar(200) DEFAULT NULL,
+  `UPDATED_ON` datetime DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;

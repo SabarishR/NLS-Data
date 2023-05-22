@@ -1,0 +1,60 @@
+Python Installation
+-----------------------
+# Download & install the respective python version exe file 
+
+# add the PATH & PYTHONPATH environment variables
+--> mycomputer -right click -->properties --> advanced system settings --> environment variables --> system variables
+
+# for python
+in PATH add -> C:\Users\Terraoffline\AppData\Local\Programs\Python\Python38
+add NEW ad PYTHON_PATH --> C:\Users\Terraoffline\AppData\Local\Programs\Python\Python38
+
+# for PIP
+in PATH add -> C:\Users\Terraoffline\AppData\Local\Programs\Python\Python38\Scripts
+add NEW ad PYTHON_PATH --> C:\Users\Terraoffline\AppData\Local\Programs\Python\Python38\scripts
+
+Python virtual environment setup
+----------------------------------
+# Download & install the git for windows terminal (search the latest exe file and install)
+
+# Navigate to respective path in git terminal
+
+# Install virtual environment using pip
+--> python -m pip install virtualenv 
+
+# To create Virtual environment
+--> python -m virtualenv python3.8.10(environment name)
+
+# To activate the respective environment
+-->  source Python_Environment/python3.8.10/Scripts/activate
+
+# To install respective requirements
+--> pip install -r requirements.txt
+
+# Flask deployment
+------------------
+# To activate the env.sh (shell script file)
+--> source config/config.sh
+
+# To run the python application
+--> nohup python Kollect_call_PreferredSession.py &
+
+# To exit the terminal without closing the Process
+--> logout
+
+# To kill the respective port	
+# Find the PID using below command
+-->  netstat -ano | findstr :5001
+# Kill the respective PID using below command
+-->  taskkill //PID 8400 //F
+
+Windows CMD Deployment
+-------------------------
+# Navigating to folder in window
+--> pushd E:\ML_APIs
+
+# activating the environment
+--> Python_Environment/python3.8.10/Scripts/activate
+
+
+

@@ -1,0 +1,63 @@
+1) credit scoring  - generic param
+
+2) fraud detection - generic param
+
+3) repayment problity model - customer specific data
+	1. Best time/period to contact delinquent client - availability (Hi Sabarish, yes this is for phone calls data. When they are likely to pick call best)
+	2. Likeliest day/date client receives credits to account/pays/after what duration (Period after which he is likely to repay the loan i.e after approx. 35 days from date loan is past due)
+	3. Likelihood of client repaying delinquent loan.
+	4. Best channel to use to more likely get a response from delinquent client
+	
+	
+	
+
+
+References
+----------
+
+best time to contact client -> https://datascience.stackexchange.com/questions/14124/predict-the-best-time-of-call
+
+predict salary date -> https://datascience.stackexchange.com/questions/60679/machine-learning-method-to-predict-event-date/60688#60688
+
+Multi target variable -> https://datascience.stackexchange.com/questions/27648/multi-target-classification-for-different-types-of-target-variables
+https://www.kaggle.com/general/20017
+
+likely to pay -> https://towardsdatascience.com/predicting-loan-repayment-5df4e0023e92s
+
+depedency parsing -> https://github.com/Featuretools/predict-loan-repayment/blob/master/Automated%20Loan%20Repayment.ipynb
+
+MYSQL host to docket connct -> https://stackoverflow.com/questions/24319662/from-inside-of-a-docker-container-how-do-i-connect-to-the-localhost-of-the-mach
+https://stackoverflow.com/questions/44543842/how-to-connect-locally-hosted-mysql-database-with-the-docker-container
+
+terminal background --> https://unix.stackexchange.com/questions/134924/i-am-using-why-isnt-the-process-running-in-the-background
+
+Cibil enterprise --> https://myscore.cibil.com/CreditView/login.page?enterprise=HDFCBANK
+
+fake mail -> https://emkei.cz/	
+rootkit
+kaspersky antivirus
+
+Superset Windows Installation --> https://gist.github.com/mark05e/d9cccae129dd11a21d7219eddd7d9923
+
+OUTLOOK
+-------
+reachmeforprivatereasons@outlook.com
+Reachme@00
+
+HSBC
+---------
+SabarishR
+Hsbc@96
+
+HDFC
+--------
+sabarish16sk@outlook.com
+Sabari@96
+
+SC
+------------
+SabarishR
+Password@12
+----
+SabarishR
+Password@12

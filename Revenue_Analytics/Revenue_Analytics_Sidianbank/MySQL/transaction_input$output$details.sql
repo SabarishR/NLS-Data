@@ -1,0 +1,13 @@
+CREATE TABLE  `transaction_input$output$details` (
+  `ID` int(11) NOT NULL AUTO_INCREMENT,
+  `TRANS_REFERENCE_DETAIL_ID` int(11) DEFAULT NULL,
+  `INPUT` json NOT NULL,
+  `OUTPUT` json DEFAULT NULL,
+  `CREATED_BY` varchar(200) DEFAULT NULL,
+  `CREATED_ON` datetime NOT NULL, 
+  `UPDATED_BY` varchar(200) DEFAULT NULL,
+  `UPDATED_ON` datetime DEFAULT NULL,
+  PRIMARY KEY (`ID`),
+  KEY `FK_input$output$details_1` (`TRANS_REFERENCE_DETAIL_ID`),
+  CONSTRAINT `FK_input$output$details_1` FOREIGN KEY (`TRANS_REFERENCE_DETAIL_ID`) REFERENCES `transaction$trans_reference$details` (`ID`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;

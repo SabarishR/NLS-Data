@@ -1,0 +1,94 @@
+1) Phishing - collect users info over phishing URL and do the transactions
+2) Vishing - Imposters acting as bankers and collect user infos
+3) Frauds using online sales platforms
+4) Frauds due to the use of unknown/unverified mobile apps
+5) ATM card skimming
+6) Frauds using screen sharing app / Remote access
+7) Sim swap or sim cloning
+8) Frauds by compromising credentials on results through search engines
+9) Scam through QR code scan
+10) Impersonation on social media
+
+
+1) All possible fraudulent transaction from core banking
+2) Transaction from TI identified as normal and in core banking flagged as fraudulent
+3) Transaction from TI identified as fraudulent and in core banking flagged as normal
+ 
+1) anolamalies 
+2) abnormal behaviours
+
+example
+--------
+1) Let's say Customer average spend per day 1000 and average transaction per day is 5
+but for the same customer the average spend goes 100000 and avg transaction goes 50 then We would say this might be chance of fraudulent 
+
+2) The past transaction happened with the avg duration of 10 seconds and now the last transaction happening with 40 seconds there might be chance of fraudulent.
+may be system slowness. but we would say as per past status. if the status goes approved then wont be issue. but most of the same cases if it is declined then chance of fraudulent 
+
+3) In ATM,the last two transaction were failed due to incorrect pin. and further next transaction happend in a same medium. The customer reports the respective transaction is fraud then against the same scienaio multiple fraud reports then there is a fraudulant case
+
+4) The transaction frequency is rare, few tym in a month and with a few minitues multiple transaction happening then there is chance of fradulant
+
+5) Several small transactions are made in a short time using the same or similar card numbers
+
+6) The shipping address does not match billing address, especially if the shipping address is a freight forwarder or re-shipper
+
+7) The customer tries different expiration dates after initial decline
+
+8) Beware the Use of IP Proxies
+
+9) 
+
+https://goo.gl/maps/Wi1KKS3JXodea7mHA
+
+
+ Suggested Variables
+ 
+ 1) Unique Transaction reference number
+ 2) channel
+ 3) Transaction code
+ 4) amount transfer from country
+ 5) amount transfer to country
+ 6) Is_IP_Vulnarablity
+ 7) customer risk score
+ 8) Is transferring to beneficiary transfer 
+ 9) customer has in PEP list
+ 10) customer has in terrorist list
+ 11) customer in negative list
+ 12) payment frequency
+ 13) AVG daily spend
+ 14) AVG montly spend
+ 15) no of past fraudulent transaction
+ 16) age of account
+ 17) CRB score
+ 18) maximum limit
+ 19) Time of delay in payments
+ 20) authentication type
+ 21) lattitute/longitude 
+
+
+ Interest Amount - (MONTHLY_INSTALLMENT * TENURE) - LOAN_AMONT ,
+ LAF (2% of the loan) - All products,
+ LRMF (2% of the loan) - All products (except loans with credit-life not applicable),
+ Chattel fees - Only SME-IND (1500 per chattel for loans above 100000),
+ Assessment fees - Only for SME-IND (1,000 per loan),
+ Processing fees - Only for SME-IND (100 per loan)
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,33 @@
+Request
+
+soapenv:Envelope xmlns:soapenv='http://schemas.xmlsoap.org/soap/envelope/' xmlns:aml='http://www.nlske.com/AMLServices'>
+                           <soapenv:Header/>
+                           <soapenv:Body>
+                              <aml:EvaluateCreditScoreRequest>
+                                 <RequestData>
+                                    <AccountNumber>01030150022553</AccountNumber>
+                                    <PhoneNumber>254712159239</PhoneNumber>
+                                    <IDDocument>28198449</IDDocument>
+                                    <TransactionTimeStamp>2021-11-16T10:16:05</TransactionTimeStamp>
+                                 </RequestData>
+                              </aml:EvaluateCreditScoreRequest>
+                           </soapenv:Body>
+                        </soapenv:Envelope> ]
+						
+						
+Responce
+
+ns:EvaluateCreditScoreResponse xmlns:ns="http://www.nlske.com/AMLServices">
+    <CreditScorePoints>21.0</CreditScorePoints>
+    <CreditScoreGrade>40</CreditScoreGrade>
+    <AllocatedCreditLimit>50000</AllocatedCreditLimit>
+</ns:EvaluateCreditScoreResponse>
+ ]
+ 
+ sample responce 2 
+ 
+ <ns:EvaluateCreditScoreResponse xmlns:ns="http://www.nlske.com/AMLServices">
+    <CreditScorePoints>0</CreditScorePoints>
+    <CreditScoreGrade>Dear customer. You loan request has been declined due to a poor credit score</CreditScoreGrade>
+    <AllocatedCreditLimit>0</AllocatedCreditLimit>
+</ns:EvaluateCreditScoreResponse>

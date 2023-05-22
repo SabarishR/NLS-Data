@@ -1,0 +1,438 @@
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 11:44:24,785 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 11:44:24,785 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.71.156:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 11:44:29,308 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [20/Apr/2022 11:44:29] "POST /kollectCall_preferredSession_xgbClassifier_modelPredictions HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 11:52:04,886 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 11:52:04,887 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.71.156:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 11:52:08,365 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [20/Apr/2022 11:52:08] "POST /kollectCall_preferredSession_xgbClassifier_modelPredictions HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 12:12:41,489 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [20/Apr/2022 12:12:41] "[33mPOST /kollectCall_preferredSession_xgbClassifier_modeltraining HTTP/1.1[0m" 404 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 12:12:49,054 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [20/Apr/2022 12:12:49] "[33mGET /kollectCall_preferredSession_xgbClassifier_modeltraining HTTP/1.1[0m" 404 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 12:13:19,151 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 12:13:19,152 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.71.156:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 12:13:24,188 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [20/Apr/2022 12:13:24] "GET /kollectCall_preferredSession_xgbClassifier_modeltraining HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-20 12:14:19,448 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [20/Apr/2022 12:14:19] "POST /kollectCall_preferredSession_xgbClassifier_modelPredictions HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-25 15:40:41,799 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-25 15:40:41,800 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.0.117:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-25 15:41:00,855 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [25/Apr/2022 15:41:00] "POST /kollectCall_preferredSession_xgbClassifier_modelPredictions HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-04-25 15:41:06,619 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [25/Apr/2022 15:41:06] "POST /kollectCall_preferredSession_xgbClassifier_modelPredictions HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 10:15:11,193 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 10:15:11,193 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.0.133:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-16 10:25:17,863 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [16/May/2022 10:25:17] "POST /kollectCall_preferredSession_xgbClassifier_modelPredictions HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-19 15:30:10,143 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-19 15:30:10,144 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.0.133:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-19 15:30:32,930 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [19/May/2022 15:30:32] "POST /kollectCall_preferredSession_xgbClassifier_modelPredictions HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-05-19 15:32:36,266 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [19/May/2022 15:32:36] "POST /kollectCall_preferredSession_xgbClassifier_modelPredictions HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 12:55:59,223 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 12:55:59,224 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.0.133:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 12:57:22,313 & Filename - Kollect_preferredSession_app & Type - ERROR 
+-------------------------------------------------------------------------
+ 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+Traceback (most recent call last):
+  File "Kollect_preferredSession_app.py", line 59, in train_model
+    result = MTP.to_kollectCall_preferredSession_xgbClassifier_modelTraining()
+  File "/home/sabarish/Sabarish/Kollect_Call/Kollect_call_preferredSession_NCBA/pyfiles/model_train_predictions.py", line 65, in to_kollectCall_preferredSession_xgbClassifier_modelTraining
+    scalar,X_train, X_test, y_train, y_test,columns = CF.fn_trainTest_split(df,app.config['VAR_TRAINTESTSPLIT_RANDOMSTATE'])
+  File "/home/sabarish/Sabarish/Kollect_Call/Kollect_call_preferredSession_NCBA/pyfiles/functions.py", line 120, in fn_trainTest_split
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = random_state)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/sklearn/model_selection/_split.py", line 2422, in train_test_split
+    n_train, n_test = _validate_shuffle_split(
+  File "/home/sabarish/.local/lib/python3.8/site-packages/sklearn/model_selection/_split.py", line 2098, in _validate_shuffle_split
+    raise ValueError(
+ValueError: With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "Kollect_preferredSession_app.py", line 62, in train_model
+    abort(400)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 940, in abort
+    _aborter(status, *args, **kwargs)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 923, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 12:57:22,320 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [07/Jun/2022 12:57:22] "GET /kollectCall_preferredSession_xgbClassifier_modelTraining HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 12:57:47,738 & Filename - Kollect_preferredSession_app & Type - ERROR 
+-------------------------------------------------------------------------
+ 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+Traceback (most recent call last):
+  File "Kollect_preferredSession_app.py", line 59, in train_model
+    result = MTP.to_kollectCall_preferredSession_xgbClassifier_modelTraining()
+  File "/home/sabarish/Sabarish/Kollect_Call/Kollect_call_preferredSession_NCBA/pyfiles/model_train_predictions.py", line 65, in to_kollectCall_preferredSession_xgbClassifier_modelTraining
+    scalar,X_train, X_test, y_train, y_test,columns = CF.fn_trainTest_split(df,app.config['VAR_TRAINTESTSPLIT_RANDOMSTATE'])
+  File "/home/sabarish/Sabarish/Kollect_Call/Kollect_call_preferredSession_NCBA/pyfiles/functions.py", line 120, in fn_trainTest_split
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = random_state)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/sklearn/model_selection/_split.py", line 2422, in train_test_split
+    n_train, n_test = _validate_shuffle_split(
+  File "/home/sabarish/.local/lib/python3.8/site-packages/sklearn/model_selection/_split.py", line 2098, in _validate_shuffle_split
+    raise ValueError(
+ValueError: With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "Kollect_preferredSession_app.py", line 62, in train_model
+    abort(400)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 940, in abort
+    _aborter(status, *args, **kwargs)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 923, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 12:57:47,739 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [07/Jun/2022 12:57:47] "POST /kollectCall_preferredSession_xgbClassifier_modelTraining HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:00:00,419 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:00:00,419 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.0.133:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:00:08,079 & Filename - Kollect_preferredSession_app & Type - ERROR 
+-------------------------------------------------------------------------
+ 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+Traceback (most recent call last):
+  File "Kollect_preferredSession_app.py", line 59, in train_model
+    result = MTP.to_kollectCall_preferredSession_xgbClassifier_modelTraining()
+  File "/home/sabarish/Sabarish/Kollect_Call/Kollect_call_preferredSession_NCBA/pyfiles/model_train_predictions.py", line 68, in to_kollectCall_preferredSession_xgbClassifier_modelTraining
+    scalar,X_train, X_test, y_train, y_test,columns = CF.fn_trainTest_split(df,app.config['VAR_TRAINTESTSPLIT_RANDOMSTATE'])
+  File "/home/sabarish/Sabarish/Kollect_Call/Kollect_call_preferredSession_NCBA/pyfiles/functions.py", line 120, in fn_trainTest_split
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = random_state)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/sklearn/model_selection/_split.py", line 2422, in train_test_split
+    n_train, n_test = _validate_shuffle_split(
+  File "/home/sabarish/.local/lib/python3.8/site-packages/sklearn/model_selection/_split.py", line 2098, in _validate_shuffle_split
+    raise ValueError(
+ValueError: With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "Kollect_preferredSession_app.py", line 62, in train_model
+    abort(400)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 940, in abort
+    _aborter(status, *args, **kwargs)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 923, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:00:08,081 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [07/Jun/2022 13:00:08] "POST /kollectCall_preferredSession_xgbClassifier_modelTraining HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:04:35,749 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:04:35,749 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.0.133:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:04:39,927 & Filename - Kollect_preferredSession_app & Type - ERROR 
+-------------------------------------------------------------------------
+ 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+Traceback (most recent call last):
+  File "Kollect_preferredSession_app.py", line 59, in train_model
+    result = MTP.to_kollectCall_preferredSession_xgbClassifier_modelTraining()
+  File "/home/sabarish/Sabarish/Kollect_Call/Kollect_call_preferredSession_NCBA/pyfiles/model_train_predictions.py", line 69, in to_kollectCall_preferredSession_xgbClassifier_modelTraining
+    scalar,X_train, X_test, y_train, y_test,columns = CF.fn_trainTest_split(df,app.config['VAR_TRAINTESTSPLIT_RANDOMSTATE'])
+  File "/home/sabarish/Sabarish/Kollect_Call/Kollect_call_preferredSession_NCBA/pyfiles/functions.py", line 120, in fn_trainTest_split
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = random_state)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/sklearn/model_selection/_split.py", line 2422, in train_test_split
+    n_train, n_test = _validate_shuffle_split(
+  File "/home/sabarish/.local/lib/python3.8/site-packages/sklearn/model_selection/_split.py", line 2098, in _validate_shuffle_split
+    raise ValueError(
+ValueError: With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "Kollect_preferredSession_app.py", line 62, in train_model
+    abort(400)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 940, in abort
+    _aborter(status, *args, **kwargs)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 923, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:04:39,929 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [07/Jun/2022 13:04:39] "POST /kollectCall_preferredSession_xgbClassifier_modelTraining HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:06:45,328 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:06:45,329 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.0.133:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:06:47,607 & Filename - Kollect_preferredSession_app & Type - ERROR 
+-------------------------------------------------------------------------
+ 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+Traceback (most recent call last):
+  File "/home/sabarish/.local/lib/python3.8/site-packages/mysql/connector/connection_cext.py", line 516, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sabarish/.local/lib/python3.8/site-packages/pandas/io/sql.py", line 2056, in execute
+    cur.execute(*args, **kwargs)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/mysql/connector/cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "/home/sabarish/.local/lib/python3.8/site-packages/mysql/connector/connection_cext.py", line 521, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "Kollect_preferredSession_app.py", line 59, in train_model
+    result = MTP.to_kollectCall_preferredSession_xgbClassifier_modelTraining()
+  File "/home/sabarish/Sabarish/Kollect_Call/Kollect_call_preferredSession_NCBA/pyfiles/model_train_predictions.py", line 32, in to_kollectCall_preferredSession_xgbClassifier_modelTraining
+    df = DBC.mysql_readTable(app.config['MYSQL_SELECT_CUSTOMERINFORMATION'],param)
+  File "/home/sabarish/Sabarish/Kollect_Call/Kollect_call_preferredSession_NCBA/pyfiles/DB_connection.py", line 28, in mysql_readTable
+    dataframe = pd.read_sql(query, con=connection,params=param)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/pandas/io/sql.py", line 602, in read_sql
+    return pandas_sql.read_query(
+  File "/home/sabarish/.local/lib/python3.8/site-packages/pandas/io/sql.py", line 2116, in read_query
+    cursor = self.execute(*args)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/pandas/io/sql.py", line 2068, in execute
+    raise ex from exc
+pandas.io.sql.DatabaseError: Execution failed on sql 'select  ID,GENDER,CUSTOMER_RISK_STATUS,INDUSTRY,RESIDENCE,CUSTOMER_STATUS,PROMISE_SUCCESS,TIME_STAMP,REPAY_CURRENCY,STAGE from customer$information where outcome in (': 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "Kollect_preferredSession_app.py", line 62, in train_model
+    abort(400)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 940, in abort
+    _aborter(status, *args, **kwargs)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 923, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:06:47,616 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [07/Jun/2022 13:06:47] "POST /kollectCall_preferredSession_xgbClassifier_modelTraining HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:07:48,582 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:07:48,582 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.0.133:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:07:52,675 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [07/Jun/2022 13:07:52] "POST /kollectCall_preferredSession_xgbClassifier_modelTraining HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2022-06-07 13:10:48,690 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [07/Jun/2022 13:10:48] "POST /kollectCall_preferredSession_xgbClassifier_modelPredictions HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2023-05-09 16:57:01,078 & Filename - werkzeug & Type - WARNING 
+-------------------------------------------------------------------------
+  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+
+-------------------------------------------------------------------------
+ Datetime - 2023-05-09 16:57:01,078 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+  * Running on http://192.168.0.129:2012/ (Press CTRL+C to quit)
+
+-------------------------------------------------------------------------
+ Datetime - 2023-05-09 16:58:41,652 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [09/May/2023 16:58:41] "POST /kollectCall_preferredSession_xgbClassifier_modelPredictions HTTP/1.1" 200 -
+
+-------------------------------------------------------------------------
+ Datetime - 2023-05-09 17:00:26,789 & Filename - Kollect_preferredSession_app & Type - ERROR 
+-------------------------------------------------------------------------
+ 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+Traceback (most recent call last):
+  File "Kollect_preferredSession_app.py", line 72, in get_model_predictions
+    result = MTP.to_kollectCall_preferredSession_xgbClassifier_modelPredictions(data)
+  File "/home/sabarish/Sabarish/Kollect_Call/Kollect_call_preferredSession_NCBA/pyfiles/model_train_predictions.py", line 88, in to_kollectCall_preferredSession_xgbClassifier_modelPredictions
+    userIPjson = {'ID':[data['ID']],'CUSTOMER_RISK_STATUS':[app.config['VAR_CUSTOMER_RISK_STATUS_LABEL']['CUSTOMER_RISK_STATUS'][data['CUSTOMER_RISK_STATUS']]],'INDUSTRY':[data['INDUSTRY']]}
+KeyError: 'ID'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1516, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/sabarish/.local/lib/python3.8/site-packages/flask/app.py", line 1502, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**req.view_args)
+  File "Kollect_preferredSession_app.py", line 75, in get_model_predictions
+    abort(400)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 940, in abort
+    _aborter(status, *args, **kwargs)
+  File "/home/sabarish/.local/lib/python3.8/site-packages/werkzeug/exceptions.py", line 923, in __call__
+    raise self.mapping[code](*args, **kwargs)
+werkzeug.exceptions.BadRequest: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+
+-------------------------------------------------------------------------
+ Datetime - 2023-05-09 17:00:26,794 & Filename - werkzeug & Type - INFO 
+-------------------------------------------------------------------------
+ 127.0.0.1 - - [09/May/2023 17:00:26] "POST /kollectCall_preferredSession_xgbClassifier_modelPredictions HTTP/1.1" 200 -
